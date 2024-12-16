@@ -4486,3 +4486,14 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [16Dec2024 20:10:44.085] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Damien'/16070, l='ServerLevel[world]', x=51.22, y=-256.00, z=13.57] died: Damien fell out of the world
 [16Dec2024 20:25:01.074] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=966, y=-34, z=566}
 [16Dec2024 20:25:57.610] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=947, y=-53, z=621}
+[16Dec2024 20:28:20.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _quuiquue has completed the challenge [Forager]
+[16Dec2024 20:28:36.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[16Dec2024 20:30:07.952] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[16Dec2024 20:30:08.111] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
+[16Dec2024 20:30:12.150] [Worker-Main-3/WARN] [ModernFix/]: The namespace additionalstructures contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[16Dec2024 20:30:16.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _quuiquue lost connection: Disconnected
+[16Dec2024 20:30:16.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _quuiquue left the game
+[16Dec2024 20:30:16.121] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fd7596d9-5fab-3ec7-a802-0710c4111495
+[16Dec2024 20:30:16.121] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fd7596d9-5fab-3ec7-a802-0710c4111495 was unloaded
+[16Dec2024 20:31:01.471] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1361, y=-53, z=154}
+[16Dec2024 20:31:01.472] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=1363, y=-53, z=154}

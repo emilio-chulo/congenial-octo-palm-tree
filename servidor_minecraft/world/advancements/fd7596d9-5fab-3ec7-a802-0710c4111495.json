@@ -3240,6 +3240,12 @@
     },
     "done": true
   },
+  "byg:husbandry/forager": {
+    "criteria": {
+      "white_puffball_cap": "2024-12-16 20:28:20 +0000"
+    },
+    "done": true
+  },
   "vinery:flower_pot": {
     "criteria": {
       "has_the_recipe": "2024-09-30 16:03:09 +0000"
