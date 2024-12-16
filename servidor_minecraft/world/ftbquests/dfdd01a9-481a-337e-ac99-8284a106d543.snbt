@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "dfdd01a9481a337eac998284a106d543"
+	name: "hastaelfondo"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

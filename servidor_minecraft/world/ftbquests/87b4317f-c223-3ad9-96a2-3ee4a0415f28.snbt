@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "87b4317fc2233ad996a23ee4a0415f28"
+	name: "abcdefg"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

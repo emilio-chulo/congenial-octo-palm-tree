@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "846c5381376c37ad8471a44c9da60ea2"
+	name: "Hardsex"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

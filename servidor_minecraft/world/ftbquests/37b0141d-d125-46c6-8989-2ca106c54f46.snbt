@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "37b0141dd12546c689892ca106c54f46"
+	name: "emilioelchuliyo's Party"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

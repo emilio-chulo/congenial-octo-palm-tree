@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "3b6994356d2d4ab4a961d431c8b54d65"
+	name: "emilioelchuliyo"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

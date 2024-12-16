@@ -1,0 +1,17 @@
+{
+	id: "37f32bfb-f491-3f6a-a83d-7400721559b1"
+	type: "player"
+	player_name: "_QUUIQUUE"
+	ranks: {
+		37f32bfb-f491-3f6a-a83d-7400721559b1: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "_QUUIQUUE"
+		"ftbteams:description": ""
+		"ftbteams:color": "#8EFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

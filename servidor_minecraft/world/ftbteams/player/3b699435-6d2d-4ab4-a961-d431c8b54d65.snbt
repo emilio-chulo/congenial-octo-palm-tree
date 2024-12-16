@@ -1,0 +1,17 @@
+{
+	id: "3b699435-6d2d-4ab4-a961-d431c8b54d65"
+	type: "player"
+	player_name: "emilioelchuliyo"
+	ranks: {
+		3b699435-6d2d-4ab4-a961-d431c8b54d65: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "emilioelchuliyo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFE759"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

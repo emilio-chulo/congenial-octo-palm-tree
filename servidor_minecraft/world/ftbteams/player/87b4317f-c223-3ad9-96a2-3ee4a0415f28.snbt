@@ -1,0 +1,15 @@
+{
+	id: "87b4317f-c223-3ad9-96a2-3ee4a0415f28"
+	type: "player"
+	player_name: "abcdefg"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "abcdefg"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFC2"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

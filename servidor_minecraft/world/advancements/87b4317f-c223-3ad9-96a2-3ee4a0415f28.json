@@ -1,0 +1,2288 @@
+{
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:coffee_cake_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 15:41:43 +0000"
+    },
+    "done": true
+  },
+  "ic2:lapatron_crystal_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 17:30:07 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_charge_bench_kit_indirect_gold_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "vinery:dark_oak_wine_rack_small": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:memory_expansion_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:58 +0000"
+    },
+    "done": true
+  },
+  "vinery:birch_wine_rack_small": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "ic2:plant_ball_sapling_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:57:21 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:window": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_boat_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-10-01 15:44:17 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/root": {
+    "criteria": {
+      "enter_mushroom_fields": "2024-09-30 14:29:18 +0000",
+      "enter_swamp": "2024-09-30 14:29:18 +0000",
+      "enter_dark_forest": "2024-09-30 14:29:18 +0000",
+      "enter_badlands": "2024-09-30 14:29:18 +0000"
+    },
+    "done": true
+  },
+  "ic2:bio_ball_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-02 18:42:05 +0000"
+    },
+    "done": true
+  },
+  "vinery:vinemaker_leggings": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:trade_o_mat_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 15:44:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 19:20:37 +0000"
+    },
+    "done": true
+  },
+  "ic2:tfbp_biome_forestification_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_slab_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 19:29:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:big_table": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_trapdoor_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 19:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_pressure_plate_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 19:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:iv_charge_bench_kit_indirect_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-02 18:42:05 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_pressure_plate": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:static_boots_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 19:33:48 +0000"
+    },
+    "done": true
+  },
+  "ic2:lv_unloader_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "vinery:loam": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:vent_heat_adv_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-10 19:17:45 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_fence": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:straw_hat": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "vinery:basket": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:parachute_module_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 18:58:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_sign_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-10-01 15:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-10-02 18:42:06 +0000"
+    },
+    "done": true
+  },
+  "ic2:aluminum_sign_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:witch_huts": {
+    "criteria": {
+      "in_witch_hut_oak": "2024-10-10 17:51:45 +0000"
+    },
+    "done": false
+  },
+  "ic2:painter_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 19:33:48 +0000"
+    },
+    "done": true
+  },
+  "ic2:planter_pot_dirt_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 15:31:14 +0000"
+    },
+    "done": true
+  },
+  "ic2:emerald_uum_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-10 19:17:45 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:muffler_upgrade_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 19:33:48 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:bio_chunk_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 19:05:40 +0000"
+    },
+    "done": true
+  },
+  "ic2:industrial_worktable_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:58 +0000"
+    },
+    "done": true
+  },
+  "ic2:glass_fiber_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-10 19:17:45 +0000"
+    },
+    "done": true
+  },
+  "ic2:bronze_hoe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 18:58:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:crafter_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 15:44:11 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:capacity_pipe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-02 18:42:05 +0000"
+    },
+    "done": true
+  },
+  "ic2:crop_sticks_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "ic2:lead_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 15:28:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:teleport_valve_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-10 19:17:45 +0000"
+    },
+    "done": true
+  },
+  "vinery:oak_wine_rack_small": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "ic2:mug_cold_fruit_tea_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:57:23 +0000"
+    },
+    "done": true
+  },
+  "ic2:advanced_circuit_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 17:30:07 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_battery_station_kit_indirect_bronze_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "ic2:iv_battery_station_kit_indirect_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "ic2:rubberwood_fence_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "ic2:aluminum_sword_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "vinery:red_grape_crate": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:lv_battery_station_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "vinery:dark_oak_wine_rack_big": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:wine_box": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "ic2:lv_transformer_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "ic2:raw_silver_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 17:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "beef": "2024-09-23 16:02:05 +0000",
+      "abnormals_delight:onion": "2024-10-01 15:41:09 +0000",
+      "cooked_porkchop": "2024-09-24 17:14:19 +0000",
+      "mutton": "2024-09-30 19:35:10 +0000",
+      "cooked_mutton": "2024-09-23 16:02:27 +0000",
+      "apple": "2024-09-30 19:05:17 +0000",
+      "potato": "2024-10-01 15:37:38 +0000",
+      "bread": "2024-10-10 18:17:10 +0000",
+      "porkchop": "2024-09-30 15:45:30 +0000",
+      "chicken": "2024-09-30 15:38:52 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_fence_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 19:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:memory_stick_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-10 19:17:45 +0000"
+    },
+    "done": true
+  },
+  "ic2:lemon_cake_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 15:41:43 +0000"
+    },
+    "done": true
+  },
+  "ic2:glass_to_splash_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-02 18:42:05 +0000"
+    },
+    "done": true
+  },
+  "vinery:grapevine_lattice": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_trapdoor": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:mangrove_wine_rack_small": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:battery_belt_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 15:40:05 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:pillager_camp": {
+    "criteria": {
+      "in_pillager_camp": "2024-10-01 15:30:33 +0000"
+    },
+    "done": true
+  },
+  "ic2:energy_crystal_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-10 19:17:45 +0000"
+    },
+    "done": true
+  },
+  "ic2:reinforced_stone_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/barrel_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-10-01 15:44:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:vent_steam_adv_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-10 19:17:45 +0000"
+    },
+    "done": true
+  },
+  "ic2:energy_storage_upgrade_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "ic2:ev_charging_bench_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 18:57:05 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_battery_station_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "ic2:planter_pot_sand_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-02 18:42:05 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "vinery:birch_wine_rack_big": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:armor_configurator_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:58 +0000"
+    },
+    "done": true
+  },
+  "ic2:chips_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_sign_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 19:29:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/chest_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-10-01 15:44:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:filtered_fluid_scanner_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 15:44:11 +0000"
+    },
+    "done": true
+  },
+  "ic2:hopper_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 15:44:11 +0000"
+    },
+    "done": true
+  },
+  "ic2:tfbp_desertification_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-02 18:42:05 +0000"
+    },
+    "done": true
+  },
+  "ic2:ev_battery_station_kit_indirect_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "ic2:rocket_miner_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 15:44:11 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "vinery:fermentation_barrel": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:hover_tube_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-10 19:17:45 +0000"
+    },
+    "done": true
+  },
+  "ic2:hv_charging_bench_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "ic2:aluminum_pickaxe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "ic2:aluminum_shovel_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:torch_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_door_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 19:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:lv_flux_generator_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 15:30:55 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:spruce_wine_rack_big": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-09-20 17:59:44 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:misc/yellow_dye_from_buttercup": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-09-20 18:24:53 +0000"
+    },
+    "done": true
+  },
+  "vinery:loam_stairs": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:jungle_wine_rack_small": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-09-23 16:02:05 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:tfbp_flatificator_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 15:31:14 +0000"
+    },
+    "done": true
+  },
+  "ic2:hv_battery_station_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_battery_station_kit_indirect_gold_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "ic2:rubberwood_sign_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "vinery:flower_box": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:macerator_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:50:48 +0000"
+    },
+    "done": true
+  },
+  "ic2:dynamite_remote_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 17:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-09-20 15:40:25 +0000"
+    },
+    "done": true
+  },
+  "ic2:generator_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 17:02:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 18:58:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:simple_fluid_import_upgrade_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-02 18:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/chest_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 18:58:54 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:simple_fluid_import_upgrade_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-02 18:42:05 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_charge_bench_kit_indirect_bronze_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "ic2:wooden_scaffold_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_door": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_battery_station_bronze_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_3": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:hv_charge_bench_kit_indirect_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_door_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 18:58:54 +0000"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_5": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:water_mill_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "ic2:stacking_tube_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 15:44:11 +0000"
+    },
+    "done": true
+  },
+  "vinery:white_grape_crate": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-09-20 18:25:45 +0000",
+      "minecraft:spider": "2024-09-20 18:26:45 +0000",
+      "minecraft:zombie": "2024-09-20 18:16:52 +0000",
+      "minecraft:drowned": "2024-10-02 18:43:57 +0000"
+    },
+    "done": false
+  },
+  "ic2:bronze_axe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "vinery:shelf": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_floorboard": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/barrel_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 18:58:54 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_sign": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_1": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2024-09-30 18:50:52 +0000"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_2": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_fence_gate_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 19:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:cropmatron_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 15:44:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-10-01 15:44:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:glass_cold_fruit_tea_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:57:23 +0000"
+    },
+    "done": true
+  },
+  "ic2:tfbp_mushroom_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 15:50:00 +0000"
+    },
+    "done": true
+  },
+  "ic2:mud_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 15:31:14 +0000"
+    },
+    "done": true
+  },
+  "frosted_friends:frosted_friends": {
+    "criteria": {
+      "frosted_friends": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:sawmill_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 19:32:16 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "ic2:dynamite_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 15:28:31 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "ic2:mug_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-10-10 19:17:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-09-23 18:39:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_door_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-10-01 15:44:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:wine_press": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:stone_macerator_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:50:48 +0000"
+    },
+    "done": true
+  },
+  "ic2:teleport_tube_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-10 19:17:45 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "ic2:tap_bucket_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-02 18:42:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-10-16 18:47:07 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_white_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 19:33:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_stairs_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-10-01 15:44:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:fluid_scanner_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-02 18:42:05 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_white_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 19:33:48 +0000"
+    },
+    "done": true
+  },
+  "ic2:filtered_scanner_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 15:44:11 +0000"
+    },
+    "done": true
+  },
+  "vinery:flower_pot": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_chest_boat": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_button_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-10-01 15:44:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "ic2:rare_earth_chunk_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 15:30:55 +0000"
+    },
+    "done": true
+  },
+  "ic2:advanced_circuit_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 17:30:07 +0000"
+    },
+    "done": true
+  },
+  "ic2:aluminum_hoe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_stairs_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 19:29:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:spruce_wine_rack_small": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:teleporter_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-10 19:17:45 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "ic2:refined_iron_sign_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "vinery:grapevine_stem": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:piston_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 18:58:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_charging_bench_bronze_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 18:58:54 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:stackable_log": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_charging_bench_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "vinery:vinemaker_boots": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_slab_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-10-01 15:44:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:hazmat_boots_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 19:33:48 +0000"
+    },
+    "done": true
+  },
+  "vinery:dirt_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:food_storage_module_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 15:44:11 +0000"
+    },
+    "done": true
+  },
+  "ic2:rail_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_stairs": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:grass_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:personal_chest_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 15:44:11 +0000"
+    },
+    "done": true
+  },
+  "ic2:ev_battery_station_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:terraformer_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 15:31:14 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:solar_helmet_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 15:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_button_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 19:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-10-01 15:44:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:lv_charging_bench_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2024-10-01 15:31:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_trapdoor_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 18:58:54 +0000"
+    },
+    "done": true
+  },
+  "ic2:tfbp_chilling_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-02 18:42:05 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:honey_cake_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 15:41:43 +0000"
+    },
+    "done": true
+  },
+  "ic2:crop_harvester_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 15:44:11 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:barrel_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "ic2:toolbox_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 15:44:11 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 18:58:54 +0000"
+    },
+    "done": true
+  },
+  "vinery:acacia_wine_rack_small": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:mv_flux_generator_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 15:30:55 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_boat": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:stone_canner_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:58 +0000"
+    },
+    "done": true
+  },
+  "ic2:compressor_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:copper_sign_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/barrel_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 19:29:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:mangrove_wine_rack_big": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "ic2:static_boots_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 19:33:48 +0000"
+    },
+    "done": true
+  },
+  "ic2:condensator_lap_repair_lapis_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 17:30:07 +0000"
+    },
+    "done": true
+  },
+  "ic2:treetap_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "vinery:wine_bottle": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_stairs_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 18:58:54 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-10-01 17:22:29 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:energy_storage_upgrade_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-09-20 17:57:01 +0000"
+    },
+    "done": true
+  },
+  "ic2:lv_loader_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "ic2:tfbp_cultivation_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:40:29 +0000"
+    },
+    "done": true
+  },
+  "comforts:rope_and_nail": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:directional_tube_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 15:30:55 +0000"
+    },
+    "done": true
+  },
+  "vinery:acacia_wine_rack_big": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:jungle_wine_rack_big": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:inventory_card_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 15:44:11 +0000"
+    },
+    "done": true
+  },
+  "ic2:reactor_planner_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 15:44:11 +0000"
+    },
+    "done": true
+  },
+  "vinery:loam_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_planks": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:stripped_cherry_wood": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-09-20 18:16:52 +0000"
+    },
+    "done": true
+  },
+  "ic2:nuke_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-02 18:42:05 +0000"
+    },
+    "done": true
+  },
+  "ic2:rubber_sapling_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-10-01 15:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/crafting_table_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-10-01 15:44:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:crafting_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:58 +0000"
+    },
+    "done": true
+  },
+  "ic2:aluminum_axe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:iron_furnace_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 15:30:55 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:cf_sprayer_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "byg:adventure/oh_the_biomes_youll_go": {
+    "criteria": {
+      "byg:allium_fields": "2024-09-30 19:33:20 +0000",
+      "byg:prairie": "2024-09-30 19:35:18 +0000",
+      "byg:orchard": "2024-10-10 17:53:27 +0000",
+      "byg:red_oak_forest": "2024-10-10 17:50:17 +0000",
+      "byg:weeping_witch_forest": "2024-10-10 17:55:00 +0000",
+      "byg:aspen_forest": "2024-10-10 17:48:49 +0000",
+      "byg:temperate_rainforest": "2024-10-10 17:51:29 +0000"
+    },
+    "done": false
+  },
+  "ic2:iridium_plate_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-10 19:17:45 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:electric_furnace_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 17:02:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-10-01 17:18:18 +0000"
+    },
+    "done": true
+  },
+  "vinery:vinemaker_apron": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:batbox_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sunflower_plains": "2024-09-30 15:48:17 +0000",
+      "minecraft:birch_forest": "2024-09-20 17:54:44 +0000",
+      "minecraft:dark_forest": "2024-10-10 17:51:39 +0000",
+      "minecraft:river": "2024-09-20 17:55:44 +0000",
+      "minecraft:dripstone_caves": "2024-10-01 17:30:55 +0000",
+      "minecraft:forest": "2024-09-20 15:39:48 +0000",
+      "minecraft:flower_forest": "2024-09-30 15:47:57 +0000",
+      "minecraft:old_growth_birch_forest": "2024-09-20 17:55:56 +0000",
+      "minecraft:plains": "2024-09-20 15:34:41 +0000"
+    },
+    "done": false
+  },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-09-30 15:38:52 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_light_gray_2_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-02 18:26:08 +0000"
+    },
+    "done": true
+  },
+  "ic2:plant_ball_seed_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:40:29 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_wool_light_gray_3_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-02 18:26:08 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_chest_boat_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 19:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:bronze_sign_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "ic2:glass_fiber_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-10 19:17:45 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "vinery:oak_wine_rack_big": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:muffler_upgrade_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 19:33:48 +0000"
+    },
+    "done": true
+  },
+  "ic2:efficient_sawblade_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-10-01 17:18:22 +0000"
+    },
+    "done": true
+  },
+  "ic2:bronze_sword_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "ic2:tin_sign_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "ic2:durable_sawblade_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "ic2:mute_upgrade_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 15:28:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:bronze_pickaxe_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 18:58:54 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_wood": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:iv_battery_station_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_button": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:coarse_dirt_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:silver_sign_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "vinery:campfire": {
+    "criteria": {
+      "has_stick": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "ic2:hv_flux_generator_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 15:30:55 +0000"
+    },
+    "done": true
+  },
+  "ic2:cfoam_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-02 18:42:05 +0000"
+    },
+    "done": true
+  },
+  "ic2:sound_beacon_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 19:33:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_chest_boat_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-10-01 15:44:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_green_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:recycler_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 15:31:14 +0000"
+    },
+    "done": true
+  },
+  "ic2:hv_battery_station_kit_indirect_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 18:58:54 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:flesh_ball_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 15:32:15 +0000"
+    },
+    "done": true
+  },
+  "ic2:cutter_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 15:30:55 +0000"
+    },
+    "done": true
+  },
+  "ic2:iv_charging_bench_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "ic2:rubberwood_fence_gate_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/chest_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 19:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:wooden_rotor_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "ic2:simple_fluid_export_upgrade_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-02 18:42:05 +0000"
+    },
+    "done": true
+  },
+  "ic2:simple_fluid_export_upgrade_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-02 18:42:05 +0000"
+    },
+    "done": true
+  },
+  "ic2:diamond_drill_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-10 19:17:45 +0000"
+    },
+    "done": true
+  },
+  "vinery:grapevine_pot": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-10-01 15:44:17 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:root": {
+    "criteria": {
+      "hasCrafting": "2024-09-30 18:48:58 +0000"
+    },
+    "done": true
+  },
+  "ic2:storage_expansion_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 15:44:11 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_green": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-10-01 15:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_pressure_plate_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-10-01 15:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_button_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 18:58:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_boat_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 19:29:17 +0000"
+    },
+    "done": true
+  },
+  "ic2:chocolate_cake_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 15:41:43 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "dirt": "2024-09-30 15:31:14 +0000"
+    },
+    "done": false
+  },
+  "ic2:ev_charge_bench_kit_indirect_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "ic2:wool_rotor_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 15:28:31 +0000"
+    },
+    "done": true
+  },
+  "ic2:bronze_shovel_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-09-30 18:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/crafting_table_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-09-30 19:29:17 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2024-09-30 14:29:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_fence_gate": {
+    "criteria": {
+      "has_the_recipe": "2024-09-30 14:29:16 +0000"
+    },
+    "done": true
+  },
+  "ic2:iron_furnace_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 15:30:55 +0000"
+    },
+    "done": true
+  },
+  "ic2:upgrade_container_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-10-01 15:44:11 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

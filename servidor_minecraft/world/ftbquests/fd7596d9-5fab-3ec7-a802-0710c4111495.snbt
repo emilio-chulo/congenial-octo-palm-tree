@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "fd7596d95fab3ec7a8020710c4111495"
+	name: "_quuiquue"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

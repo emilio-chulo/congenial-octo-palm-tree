@@ -1,0 +1,15 @@
+{
+	id: "846c5381-376c-37ad-8471-a44c9da60ea2"
+	type: "player"
+	player_name: "Hardsex"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Hardsex"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF9259"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
