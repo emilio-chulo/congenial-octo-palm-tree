@@ -4477,3 +4477,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [16Dec2024 19:32:36.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _quuiquue was slain by Spider
 [16Dec2024 19:39:05.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _quuiquue is bleeding. _quuiquue fell from a high place
 [16Dec2024 19:39:17.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _quuiquue fell from a high place
+[16Dec2024 19:53:33.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _quuiquue is bleeding. _quuiquue fell from a high place
+[16Dec2024 19:53:39.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _quuiquue fell from a high place
+[16Dec2024 19:56:09.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _quuiquue is bleeding. _quuiquue burned to death
+[16Dec2024 19:56:15.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _quuiquue burned to death
