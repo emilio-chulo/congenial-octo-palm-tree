@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2024-12-16 20:22:24 +0000"
+    },
+    "done": false
+  },
   "ic2:gunpowder_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-10-01 15:30:23 +0000"

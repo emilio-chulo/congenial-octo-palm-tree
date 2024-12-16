@@ -4481,3 +4481,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [16Dec2024 19:53:39.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _quuiquue fell from a high place
 [16Dec2024 19:56:09.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _quuiquue is bleeding. _quuiquue burned to death
 [16Dec2024 19:56:15.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _quuiquue burned to death
+[16Dec2024 20:10:22.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <_quuiquue> SSSSSWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+[16Dec2024 20:10:44.083] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Damien'/16070, l='ServerLevel[world]', x=51.22, y=-256.00, z=13.57] died, message: 'Damien fell out of the world'
+[16Dec2024 20:10:44.085] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Damien'/16070, l='ServerLevel[world]', x=51.22, y=-256.00, z=13.57] died: Damien fell out of the world
+[16Dec2024 20:25:01.074] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=966, y=-34, z=566}
+[16Dec2024 20:25:57.610] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=947, y=-53, z=621}
