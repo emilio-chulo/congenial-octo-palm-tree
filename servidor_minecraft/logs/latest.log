@@ -4574,3 +4574,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.nbt.Tag.m_6458_()" 
 [19Dec2024 15:41:31.915] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fd7596d9-5fab-3ec7-a802-0710c4111495 was loaded
 [19Dec2024 15:41:36.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
 [19Dec2024 15:41:57.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5489ms or 109 ticks behind
+[19Dec2024 16:08:28.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _quuiquue is bleeding. _quuiquue burned to death
+[19Dec2024 16:08:34.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _quuiquue burned to death
+[19Dec2024 16:19:10.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _quuiquue lost connection: Disconnected
+[19Dec2024 16:19:10.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _quuiquue left the game
+[19Dec2024 16:19:10.286] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fd7596d9-5fab-3ec7-a802-0710c4111495
+[19Dec2024 16:19:10.289] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fd7596d9-5fab-3ec7-a802-0710c4111495 was unloaded
